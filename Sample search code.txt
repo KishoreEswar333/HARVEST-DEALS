@@ -1,0 +1,24 @@
+HTML
+ <form action="">
+                        <i class='bx bx-search-alt'></i>
+                        <input type="text" name="" id="search-item" placeholder="search products">
+                        
+                    </form>
+
+
+
+CSS
+.section__trick form{
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.section__trick form input{
+  width: 60%;
+  font-size: 16px;
+  font-weight: 600;
+  padding: 8px 10px;
+  
+}
